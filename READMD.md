@@ -9,6 +9,7 @@
 * [联网设备](./docs/devices.md)
 * [DHCP](./docs/dhcp.md)
 * [TCP/IP 工具](./docs/tcp-ip-tools.md)
+* [路由](./docs/route.md)
 
 ## Author Info 😇
 
